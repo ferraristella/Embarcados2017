@@ -1,13 +1,23 @@
 1)    O que são sistemas embarcados?
-Um sistema embarcado é um sistema microprocessado completamente dedicado ao dispositivo ou sistema que ele controla. Um sistema embarcado realiza um conjunto de tarefas predefinidas, geralmente com requisitos específicos, sendo assim, pode-se otimizar o projeto reduzindo tamanho, recursos computacionais e custo do produto. Em geral tais sistemas não podem ter sua funcionalidade alterada durante o uso. Caso queira-se modificar o propósito é necessário reprogramar todo o sistema.
+Um sistema embarcado é um sistema microprocessado completamente dedicado ao dispositivo ou sistema que ele controla. 
+Um sistema embarcado realiza um conjunto de tarefas predefinidas, geralmente com requisitos específicos, sendo assim, 
+pode-se otimizar o projeto reduzindo tamanho, recursos computacionais e custo do produto. 
+Em geral tais sistemas não podem ter sua funcionalidade alterada durante o uso. Caso queira-se modificar o propósito 
+é necessário reprogramar todo o sistema.
  
 2)    Apresente aplicações de sistemas embarcados
-A)   Para a indústria automotiva: Controladores de tracção do motor e do antibloqueio em automóveis (freios ABS), computadores de bordo automotivos.
+A)   Para a indústria automotiva: Controladores de tracção do motor e do antibloqueio em automóveis (freios ABS), 
+computadores de bordo automotivos.
 B)   Para eletrodomésticos: Microondas, máquinas de lavar, aparelhos de TV, DVD players.
 C)   Para automação industrial: Sistemas de monitoramento e controle de pressão e temperatura.
  
 3)    Cite arquiteturas possíveis e as diferenças entre elas.
-Em geral sistemas embarcados possuem uma capacidade de processamento reduzida em comparação com computadores desktop. Ao invés de utilizar microprocessadores, são utilizados microcontroladores, pois esses já possuem diversos periféricos integrados no mesmo chip. São utilizadas diversas arquiteturas, como: ARM, MIPS, PowerPC, PIC, AVR, 8051, Coldfire, TMS320, Renesas H8, V850, Z8, Z80.
+Em geral sistemas embarcados possuem uma capacidade de processamento reduzida em comparação com computadores desktop. 
+Ao invés de utilizar microprocessadores, são utilizados microcontroladores, pois esses já possuem diversos periféricos
+integrados no mesmo chip. São utilizadas diversas arquiteturas, como: ARM, MIPS, PowerPC, PIC, AVR, 8051, 
+Coldfire, TMS320, Renesas H8, V850, Z8, Z80.
  
 4)    Porque usamos o Raspberry Pi na disciplina, ao invés de outro System on chip?
-Raspberry PI é uma placa de desenvolvimento de dimensões reduzidas de baixo custo econômico. A Raspberry PI roda várias distribuições Linux como Arch Linux, Pidora, Openelec, Slackware, Raspbian e até um sistema não Linux chamado RISC OS e o FreeBSD.
+Raspberry PI é uma placa de desenvolvimento de dimensões reduzidas de baixo custo econômico. 
+A Raspberry PI roda várias distribuições Linux como Arch Linux, Pidora, Openelec, Slackware, Raspbian e até um sistema não Linux 
+chamado RISC OS e o FreeBSD.
